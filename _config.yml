@@ -21,7 +21,7 @@ repository               : "nfwya/nfwya.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "許家安/HSU CHIA-AN"
   pronouns         : # example: "she/her"  
   bio              : "台北榮民總醫院眼科醫師"
