@@ -12,7 +12,7 @@ title                    : "許家安/Ophthalmologist"
 title_separator          : "-"
 name                     : &name "許家安/Hsu Chia-an"
 description              : &description "眼科醫師/Ophthalmologist"
-url                      : https://nfwya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nfwya.github.io/nfwya # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
