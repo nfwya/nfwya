@@ -21,10 +21,10 @@ redirect_from:
   * 第二年兒科組/Second year specialized in Pediatrics  
 
 
-
+專長/Skills
 ======
 * 微創白內障手術
-* 視網膜疾病
+* 一般眼科疾病
 
 Publications
 ======
