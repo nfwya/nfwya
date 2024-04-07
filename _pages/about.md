@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "專注於幫助病人獲得最佳的視力\nFocusing on delivering the best visual outcome to patients"
+title: "專注於幫助病人獲得最佳的視力<br />Focusing on delivering the best visual outcome to patients"
 author_profile: true
 redirect_from: 
   - /about/
