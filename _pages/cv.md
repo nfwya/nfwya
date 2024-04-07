@@ -11,16 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.D., National Yang-Ming Univeristy, Taiwan, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019-2021: Two Post-Graduate Years in Taipei Veterans General Hospital
+  * Second year specialized in Pediatrics  
 
 * Fall 2015: Research Assistant
   * Github University
