@@ -9,33 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+學歷/Education
 ======
-* M.D., National Yang-Ming Univeristy, Taiwan, 2019
+* 醫學士/M.D. , 國立陽明大學/National Yang-Ming Univeristy, Taiwan, 2019
 
-Work experience
+工作經歷/Work experience
 ======
-* 2019-2021: Two Post-Graduate Years in Taipei Veterans General Hospital
-  * Second year specialized in Pediatrics  
+* 2022-2026: 眼科住院醫師訓練/Ophthalmology Residency training at 台北榮民總醫院/Taipei Veterans General Hospital
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2021: 不分科住院醫師訓練/Two Post-Graduate Years at 台北榮民總醫院/Taipei Veterans General Hospital
+  * 第二年兒科組/Second year specialized in Pediatrics  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+
+
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 微創白內障手術
+* 視網膜疾病
 
 Publications
 ======
