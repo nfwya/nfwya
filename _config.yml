@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "許家安/Ophthalmologist"
+title                    : "許家安/北榮眼科醫師"
 title_separator          : "-"
 name                     : &name "許家安/Hsu Chia-an"
 description              : &description "眼科醫師/Ophthalmologist"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "許家安/HSU CHIA-AN"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "台北榮民總醫院眼科醫師"
   location         : "台北/Taipei"
-  employer         : "台北榮民總醫院/Taiei Veterans General Hospital"
+  employer         : "台北榮民總醫院"
   uri              : # URL
   email            : "nfwya0811@gmail.com" 
 
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term="Hsu Chia-an""
   researchgate     : # URL
 
   # Repositories and software development
